@@ -1,0 +1,12 @@
+.form{
+    width: 30%;
+}
+.form hr{
+    background-color: gray;
+}
+.name{
+    width: 305px;
+}
+.nationality{
+    width: 314px;
+}

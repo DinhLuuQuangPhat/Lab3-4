@@ -1,0 +1,30 @@
+.boxcenter{
+    width: 100%;
+    margin: 0 auto;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 70%;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: green;
+}
+tr{
+    height: 40px;
+}
+.xanhla{
+    border-color: white;
+    background-color: green;
+    color: white;
+}
+.xanhlanhat{
+    background-color: rgba(0, 255, 0, 0.2);
+}
+.do{
+    color: red;
+}
+.chumong{
+    font-weight: 10;
+    color: red;
+}

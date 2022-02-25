@@ -1,0 +1,16 @@
+img{
+    width: 150px;
+    height: 100px;
+}
+ul{
+    display: inline-flex;
+    float: left;
+    list-style: none;
+    padding: 0;
+}
+li{
+    padding: 0 5px;
+}
+a{
+    text-decoration: none;
+}

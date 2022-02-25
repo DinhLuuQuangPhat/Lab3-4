@@ -1,0 +1,28 @@
+div{
+    width: 80%;
+    margin: 0 auto;
+}
+article{
+    width: 79%;
+    min-height: 500px;
+    float: left;
+    margin-right: 5px;
+}
+iframe{
+    width: 100%;
+    height: 600px;
+}
+aside{
+    width: 20%;
+    height: 515px;
+    min-height: 500px;
+    background-color: rgba(0,0,0, 0.3);
+    float: left;
+    margin-top: 8px;
+}
+img{
+    width: 90%;
+}
+ul{
+    list-style: none;
+}

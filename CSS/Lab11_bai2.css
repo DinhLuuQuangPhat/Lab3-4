@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 70%;
+    font-size: 20px;
+    border-color: rgba(0, 0, 255, 0.2);
+}
+thead{
+    background-color: blue;
+    color: white;
+}
+.xanhnhat{
+    background-color: rgba(0, 0, 255, 0.1);
+}
